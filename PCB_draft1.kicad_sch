@@ -1,0 +1,187 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "74aa759e-1999-4f21-a02c-df9102426ee9")
+	(paper "A4")
+	(title_block
+		(title "Schem_draft1")
+		(date "2026-02-03")
+		(rev "0")
+	)
+	(lib_symbols)
+	(sheet
+		(at 12.7 15.24)
+		(size 73.66 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d625513-56c6-4e41-b15d-b4dd2932afea")
+		(property "Sheetname" "ESP32"
+			(at 12.7 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 12.7 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_draft1"
+				(path "/74aa759e-1999-4f21-a02c-df9102426ee9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 59.69)
+		(size 72.39 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a6eb8394-7f20-4649-8be0-769c9d2b9467")
+		(property "Sheetname" "Peripheral_Sensors"
+			(at 86.36 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PeripheralSensors.kicad_sch"
+			(at 86.36 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_draft1"
+				(path "/74aa759e-1999-4f21-a02c-df9102426ee9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 12.7 59.69)
+		(size 73.66 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a8fddee8-ecbf-4323-959b-ee55a6f92c71")
+		(property "Sheetname" "BuckConverters"
+			(at 12.7 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BuckConverters.kicad_sch"
+			(at 12.7 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_draft1"
+				(path "/74aa759e-1999-4f21-a02c-df9102426ee9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 86.36 15.24)
+		(size 72.39 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3e89df1-1c09-4d3b-94b2-db99335162ba")
+		(property "Sheetname" "Motor Drivers"
+			(at 86.36 14.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_driver.kicad_sch"
+			(at 86.36 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_draft1"
+				(path "/74aa759e-1999-4f21-a02c-df9102426ee9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
