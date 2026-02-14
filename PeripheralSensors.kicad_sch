@@ -3635,7 +3635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:R0402"
+		(property "Footprint" "LocalComponents:R0402"
 			(at 92.71 64.008 90)
 			(effects
 				(font
@@ -3917,7 +3917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC6332X65N"
+		(property "Footprint" "LocalComponents:RESC6332X65N"
 			(at 88.9 50.038 90)
 			(effects
 				(font
@@ -3983,7 +3983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC1608X90N_"
+		(property "Footprint" "LocalComponents:CAPC1608X90N_"
 			(at 83.82 35.8648 0)
 			(effects
 				(font
@@ -4118,7 +4118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC1005X35N"
+		(property "Footprint" "LocalComponents:RESC1005X35N"
 			(at 106.172 69.85 90)
 			(effects
 				(font
@@ -4187,7 +4187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC1005X35N"
+		(property "Footprint" "LocalComponents:RESC1005X35N"
 			(at 96.012 69.85 90)
 			(effects
 				(font
@@ -4255,7 +4255,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC6332X65N"
+		(property "Footprint" "LocalComponents:RESC6332X65N"
 			(at 88.9 49.022 90)
 			(effects
 				(font
@@ -4324,7 +4324,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CustomComponents:LED_LTST-C171_LTO"
+		(property "Footprint" "LocalComponents:LED_LTST-C171_LTO"
 			(at 35.56 67.31 0)
 			(effects
 				(font
@@ -4402,7 +4402,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:R0402"
+		(property "Footprint" "LocalComponents:R0402"
 			(at 92.71 62.992 90)
 			(effects
 				(font
@@ -4471,7 +4471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC1508X55N"
+		(property "Footprint" "LocalComponents:RESC1508X55N"
 			(at 37.338 58.42 90)
 			(effects
 				(font

@@ -5616,7 +5616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC2012X95N_"
+		(property "Footprint" "LocalComponents:CAPC2012X95N_"
 			(at 113.03 101.2952 0)
 			(effects
 				(font
@@ -5887,7 +5887,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC2012X95N_"
+		(property "Footprint" "LocalComponents:CAPC2012X95N_"
 			(at 35.2552 44.45 0)
 			(effects
 				(font
@@ -6296,7 +6296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC1005X55N"
+		(property "Footprint" "LocalComponents:CAPC1005X55N"
 			(at 158.4452 40.64 0)
 			(effects
 				(font
@@ -6436,7 +6436,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CustomComponents:ESD5V0LBTP"
+		(property "Footprint" "LocalComponents:ESD5V0LBTP"
 			(at 55.88 113.03 0)
 			(effects
 				(font
@@ -6852,7 +6852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC1005X40"
+		(property "Footprint" "LocalComponents:RESC1005X40"
 			(at 28.702 77.47 90)
 			(effects
 				(font
@@ -6992,7 +6992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC1005X40"
+		(property "Footprint" "LocalComponents:RESC1005X40"
 			(at 37.592 77.47 90)
 			(effects
 				(font
@@ -7060,7 +7060,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LocalComponents:ESB335_PAN"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -7069,7 +7069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ESB-33535A/3873298"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -7342,7 +7342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:STA_RMCF0402_STP"
+		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
 			(at 155.702 25.4 90)
 			(effects
 				(font
@@ -7412,7 +7412,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CustomComponents:RESC2012X60N"
+		(property "Footprint" "LocalComponents:RESC2012X60N"
 			(at 14.732 115.57 90)
 			(effects
 				(font
@@ -7620,7 +7620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LocalComponents:ESB335_PAN"
 			(at 109.22 125.73 0)
 			(effects
 				(font
@@ -7629,7 +7629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ESB-33535A/3873298"
 			(at 109.22 125.73 0)
 			(effects
 				(font
@@ -7688,7 +7688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:CONN_UB-MC5BR3-SDWP604-4S-TF_JST"
+		(property "Footprint" "LocalComponents:CONN_UB-MC5BR3-SDWP604-4S-TF_JST"
 			(at 22.86 102.87 0)
 			(effects
 				(font
@@ -7909,7 +7909,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC2012X95N_"
+		(property "Footprint" "LocalComponents:CAPC2012X95N_"
 			(at 113.03 138.1252 0)
 			(effects
 				(font
@@ -8117,7 +8117,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CustomComponents:CAPC1608X100N"
+		(property "Footprint" "LocalComponents:CAPC1608X100N"
 			(at 23.8252 44.45 0)
 			(effects
 				(font
@@ -8650,7 +8650,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CustomComponents:ESD5V0LBTP"
+		(property "Footprint" "LocalComponents:ESD5V0LBTP"
 			(at 46.99 118.11 0)
 			(effects
 				(font
