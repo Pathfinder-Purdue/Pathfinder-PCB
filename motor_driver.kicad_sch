@@ -1904,7 +1904,7 @@
 		)
 		(uuid "fff43c2a-f23e-425d-97fe-373b7eba9e21")
 	)
-	(label "Motor5_In"
+	(label "Motor_1_in"
 		(at 40.64 31.75 0)
 		(effects
 			(font
@@ -1914,7 +1914,7 @@
 		)
 		(uuid "04172f1f-11d6-487f-ba86-df5f944394ce")
 	)
-	(label "Motor5_In"
+	(label "Motor_3_in"
 		(at 127 30.48 0)
 		(effects
 			(font
@@ -1924,7 +1924,7 @@
 		)
 		(uuid "5db99433-c46b-47cf-b8d2-7bd7b1e8b378")
 	)
-	(label "Motor5_In"
+	(label "Motor_4_in"
 		(at 171.45 30.48 0)
 		(effects
 			(font
@@ -1934,7 +1934,7 @@
 		)
 		(uuid "7249f32c-17ba-4676-9d4f-9b69c65fe6be")
 	)
-	(label "Motor5_Out"
+	(label "Motor_4_out"
 		(at 171.45 38.1 0)
 		(effects
 			(font
@@ -1944,7 +1944,7 @@
 		)
 		(uuid "73a7760b-ec5f-499b-a0b2-d35a273d76ae")
 	)
-	(label "Motor5_Out"
+	(label "Motor_1_out"
 		(at 40.64 39.37 0)
 		(effects
 			(font
@@ -1954,7 +1954,7 @@
 		)
 		(uuid "82202e34-2429-4abe-977a-9ea04536364b")
 	)
-	(label "Motor5_Out"
+	(label "Motor_5_out"
 		(at 217.17 36.83 0)
 		(effects
 			(font
@@ -1964,7 +1964,7 @@
 		)
 		(uuid "a65737bb-54ab-417e-b539-bbd461766a6b")
 	)
-	(label "Motor5_In"
+	(label "Motor_2_in"
 		(at 81.28 31.75 0)
 		(effects
 			(font
@@ -1974,7 +1974,7 @@
 		)
 		(uuid "a79b1399-26e1-4c85-8e0a-031c4a7142cc")
 	)
-	(label "Motor5_Out"
+	(label "Motor_3_out"
 		(at 127 38.1 0)
 		(effects
 			(font
@@ -1984,7 +1984,7 @@
 		)
 		(uuid "c798ffd3-e9ea-4974-a596-ae58b7abb7b9")
 	)
-	(label "Motor5_In"
+	(label "Motor_5_in"
 		(at 217.17 29.21 0)
 		(effects
 			(font
@@ -1994,7 +1994,7 @@
 		)
 		(uuid "ea9ce22f-d316-4f64-9c28-8ef7a14671fb")
 	)
-	(label "Motor5_Out"
+	(label "Motor_2_out"
 		(at 81.28 39.37 0)
 		(effects
 			(font
@@ -2697,7 +2697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 154.94 43.18 0)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 200.66 41.91 0)
 			(effects
 				(font
@@ -3545,7 +3545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 64.77 44.45 0)
 			(effects
 				(font
@@ -3613,7 +3613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 110.49 43.18 0)
 			(effects
 				(font
@@ -4231,7 +4231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 24.13 44.45 0)
 			(effects
 				(font
