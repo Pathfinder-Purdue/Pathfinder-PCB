@@ -6545,7 +6545,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "53365c8a-6166-4b9b-856f-ddb7ec9367e8")
+			(uuid "8cf6a9c0-7f27-46cc-9962-edce139ddaa7")
 		)
 		(pad "2" thru_hole oval
 			(at 0 5 270)
@@ -6567,7 +6567,7 @@
 			(net 7 "/ESP32/GPIO0")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ee595719-7ea6-455f-8b89-f142215a8264")
+			(uuid "0bbce65b-7c94-40e9-aa57-e4547d56d255")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH-12mm.step"
@@ -75561,7 +75561,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6271c661-198c-4198-9d85-29d4a66e3d65")
+			(uuid "a1cb1dfe-e3a4-4cd3-b39c-529f855a6ee1")
 		)
 		(pad "2" thru_hole oval
 			(at 0 5 90)
@@ -75583,7 +75583,7 @@
 			(net 1 "/ESP32/CHIP_PU")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4ede1ddb-2269-46f4-936a-4dd017c2a02a")
+			(uuid "8e070d98-3245-4158-a7ce-c27ae3185a70")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH-12mm.step"
@@ -77768,7 +77768,7 @@
 		(layer "Edge.Cuts")
 		(uuid "b7a352a6-49c8-4bdc-a569-cb7cd6800416")
 	)
-	(gr_text "NAME: Pathfinder\nPCB ID: 01\nPCB REVISION: 01\nDATE: 2026-02-15\n\nAUTHORS: \nJackson Dees, \nBilly Ilkanic, \nConner Martin, \nNeal Singh"
+	(gr_text "NAME: Pathfinder\nPCB ID: 01\nPCB REVISION: 01\nDATE: 2026-02-15\n\nAUTHORS: \nJackson Dees, \nBilly Ilkanic, \nConnor Martin, \nNeal Singh"
 		(at 147.5 123.5 0)
 		(layer "F.SilkS")
 		(uuid "8555a75a-43e4-40c6-88d8-aa46354a23f9")
