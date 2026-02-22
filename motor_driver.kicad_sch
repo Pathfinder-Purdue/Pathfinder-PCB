@@ -1904,7 +1904,7 @@
 		)
 		(uuid "fff43c2a-f23e-425d-97fe-373b7eba9e21")
 	)
-	(label "Motor_1_in"
+	(label "Motor1_In"
 		(at 40.64 31.75 0)
 		(effects
 			(font
@@ -1914,7 +1914,7 @@
 		)
 		(uuid "04172f1f-11d6-487f-ba86-df5f944394ce")
 	)
-	(label "Motor_3_in"
+	(label "Motor3_In"
 		(at 127 30.48 0)
 		(effects
 			(font
@@ -1924,7 +1924,7 @@
 		)
 		(uuid "5db99433-c46b-47cf-b8d2-7bd7b1e8b378")
 	)
-	(label "Motor_4_in"
+	(label "Motor4_In"
 		(at 171.45 30.48 0)
 		(effects
 			(font
@@ -1934,7 +1934,7 @@
 		)
 		(uuid "7249f32c-17ba-4676-9d4f-9b69c65fe6be")
 	)
-	(label "Motor_4_out"
+	(label "Motor4_Out"
 		(at 171.45 38.1 0)
 		(effects
 			(font
@@ -1944,7 +1944,7 @@
 		)
 		(uuid "73a7760b-ec5f-499b-a0b2-d35a273d76ae")
 	)
-	(label "Motor_1_out"
+	(label "Motor1_Out"
 		(at 40.64 39.37 0)
 		(effects
 			(font
@@ -1954,7 +1954,7 @@
 		)
 		(uuid "82202e34-2429-4abe-977a-9ea04536364b")
 	)
-	(label "Motor_5_out"
+	(label "Motor5_Out"
 		(at 217.17 36.83 0)
 		(effects
 			(font
@@ -1964,7 +1964,7 @@
 		)
 		(uuid "a65737bb-54ab-417e-b539-bbd461766a6b")
 	)
-	(label "Motor_2_in"
+	(label "Motor2_In"
 		(at 81.28 31.75 0)
 		(effects
 			(font
@@ -1974,7 +1974,7 @@
 		)
 		(uuid "a79b1399-26e1-4c85-8e0a-031c4a7142cc")
 	)
-	(label "Motor_3_out"
+	(label "Motor3_Out"
 		(at 127 38.1 0)
 		(effects
 			(font
@@ -1984,7 +1984,7 @@
 		)
 		(uuid "c798ffd3-e9ea-4974-a596-ae58b7abb7b9")
 	)
-	(label "Motor_5_in"
+	(label "Motor5_In"
 		(at 217.17 29.21 0)
 		(effects
 			(font
@@ -1994,7 +1994,7 @@
 		)
 		(uuid "ea9ce22f-d316-4f64-9c28-8ef7a14671fb")
 	)
-	(label "Motor_2_out"
+	(label "Motor2_Out"
 		(at 81.28 39.37 0)
 		(effects
 			(font
@@ -2626,7 +2626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 68.072 57.15 90)
 			(effects
 				(font
@@ -2697,7 +2697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint_Pad_D1.0mm"
 			(at 154.94 43.18 0)
 			(effects
 				(font
@@ -2832,7 +2832,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 27.432 57.15 90)
 			(effects
 				(font
@@ -2970,7 +2970,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 169.672 25.4 90)
 			(effects
 				(font
@@ -3240,7 +3240,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 215.392 24.13 90)
 			(effects
 				(font
@@ -3411,7 +3411,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint_Pad_D1.0mm"
 			(at 200.66 41.91 0)
 			(effects
 				(font
@@ -3545,7 +3545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint_Pad_D1.0mm"
 			(at 64.77 44.45 0)
 			(effects
 				(font
@@ -3613,7 +3613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint_Pad_D1.0mm"
 			(at 110.49 43.18 0)
 			(effects
 				(font
@@ -3748,7 +3748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 203.962 54.61 90)
 			(effects
 				(font
@@ -4160,7 +4160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 38.862 26.67 90)
 			(effects
 				(font
@@ -4231,7 +4231,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint_Pad_D1.0mm"
 			(at 24.13 44.45 0)
 			(effects
 				(font
@@ -4364,7 +4364,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 113.792 55.88 90)
 			(effects
 				(font
@@ -4534,7 +4534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 79.502 26.67 90)
 			(effects
 				(font
@@ -4672,7 +4672,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 125.222 25.4 90)
 			(effects
 				(font
@@ -4742,7 +4742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LocalComponents:STA_RMCF0402_STP"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 158.242 55.88 90)
 			(effects
 				(font
